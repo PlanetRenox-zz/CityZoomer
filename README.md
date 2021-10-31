@@ -1,1 +1,1 @@
-Contribute to the Localization for CZ
+Contribute to the Localization of CZ
