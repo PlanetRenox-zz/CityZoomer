@@ -5,6 +5,7 @@ namespace PR
     {
         public string japaneseStart = "プレイ";
         public string japaneseResume = "戻る";
+        public string japaneseInvite = "???";
         public string japaneseQuit = "終了する";
         public string japaneseReset = "リセット";
         public string japaneseVolumeOverall = "全体ボリューム";
@@ -21,6 +22,7 @@ namespace PR
         
         public string koreanStart = "시작";
         public string koreanReset = "초기화";
+        public string koreanInvite = "???";
         public string koreanQuit = "그만두 다";
         public string koreanVolumeOverall = "오디오 볼륨";
         public string koreanVolumeVehicle = "오디오 볼륨 차량";
@@ -34,6 +36,7 @@ namespace PR
         
         public string traditionalChineseStart = "開始";
         public string traditionalChineseReset = "重啟";
+        public string traditionalChineseInvite = "???";
         public string traditionalChineseQuit = "退出";
         public string traditionalChineseVolumeOverall = "音量";
         public string traditionalChineseVolumeVehicle = "音量車";
@@ -45,7 +48,7 @@ namespace PR
         public string traditionalChineseGraphicsQuality = "圖形質量";
         public string traditionalChineseResetSettings = "重新設置";
         
-        
+        // feel free to add more languages using the same format above
         
         
     }
